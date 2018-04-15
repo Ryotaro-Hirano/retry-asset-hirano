@@ -1,0 +1,77 @@
+/*===============================================
+画面の横幅が320px以上
+===============================================*/
+@media screen and (min-width: 320px){
+  /* .main-container {
+    background-color: red;
+  } */
+  #main, #wrap, #form, a, img, textarea{
+  max-width: 100%;
+  height: auto;
+  width: auto;　
+  }
+
+}
+/*===============================================
+画面の横幅が800px以上
+===============================================*/
+@media screen and (min-width: 800px){
+  /* .main-container {
+    background-color: pink;
+    margin-left: 0;
+  } */
+  /* #main {
+  max-width: 100%;
+  height: auto;
+  width: auto;　
+  } */
+
+
+}
+
+/*===============================================
+画面の横幅が960pxまで
+===============================================*/
+@media screen and (min-width:960px){
+  /* .main-container {
+    background-color: blue;
+  } */
+img{
+width: 90%;
+height: auto;
+width: auto;　
+}
+
+}
+
+/*===============================================
+画面の横幅が1200pxまで
+===============================================*/
+@media screen and (min-width:1200px){
+/* .main-container {
+  background-color: yellow;
+} */
+img{
+max-width: 100%;
+height: auto;
+width: auto;　
+}
+
+}
+/*===============================================
+画面の横幅が1200pxまで
+===============================================*/
+@media screen and (max-width:1500px){
+
+
+}
+
+
+/*===============================================
+flex
+===============================================*/
+@media screen and (max-width: 700px) {
+  /* .main {
+    flex-direction: column;
+  } */
+}
