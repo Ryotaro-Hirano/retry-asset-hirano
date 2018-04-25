@@ -294,7 +294,7 @@ html,body{
   padding: 0;
 }
 #contents01{
-  background-image: url(img/img-novel.jpg);
+  background-image: url(../img/img-novel.jpg);
 }
 #contents02{
   background-image: url(../img/img-stockholm-sunset.jpg);
