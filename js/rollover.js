@@ -1,6 +1,6 @@
 // 北京
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/ch-bj_min.jpg";
+  preImg.src="img/portfolio-hr/ch-bj_on.jpg";
 
   document.getElementById("chImg").onmouseover=function() {
     document.getElementById("chImg").setAttribute("src","img/portfolio-hr/ch-bj_on.jpg");
@@ -11,7 +11,7 @@
   }
 // ヴァチカン
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/vc-vachican_min.jpg";
+  preImg.src="img/portfolio-hr/vc-vachican_on.jpg";
 
   document.getElementById("vcImg").onmouseover=function() {
     document.getElementById("vcImg").setAttribute("src","img/portfolio-hr/vc-vachican_on.jpg");
@@ -22,7 +22,7 @@
   }
 // ローマ
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/it-collseoj_min.jpg";
+  preImg.src="img/portfolio-hr/it-collseoj_on.jpg";
 
   document.getElementById("itImg").onmouseover=function() {
     document.getElementById("itImg").setAttribute("src","img/portfolio-hr/it-collseo_on.jpg");
@@ -33,7 +33,7 @@
   }
 // マック
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/ny-apple_min.jpg";
+  preImg.src="img/portfolio-hr/ny-apple_on.jpg";
 
   document.getElementById("nyImg").onmouseover=function() {
     document.getElementById("nyImg").setAttribute("src","img/portfolio-hr/ny-apple_on.jpg");
@@ -44,7 +44,7 @@
   }
 // センタラル
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/ny-central_min.jpg";
+  preImg.src="img/portfolio-hr/ny-central_on.jpg";
 
   document.getElementById("nycImg").onmouseover=function() {
     document.getElementById("nycImg").setAttribute("src","img/portfolio-hr/ny-central_on.jpg");
@@ -55,7 +55,7 @@
   }
 // 図書館
   var preImg=new Image();
-  preImg.src="img/portfolio-hr/ny-libray_min.jpg";
+  preImg.src="img/portfolio-hr/ny-libray_on.jpg";
 
   document.getElementById("nylImg").onmouseover=function() {
     document.getElementById("nylImg").setAttribute("src","img/portfolio-hr/ny-libray_on.jpg");
